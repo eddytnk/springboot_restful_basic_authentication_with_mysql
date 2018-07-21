@@ -1,0 +1,5 @@
+insert into user(id,name,username,password,role,enabled) values(1,'Tanko','tanko','$2a$10$Y6XOTC4cWSYV9T9DD14hiuwkT/KlprERmUiN8zVHsOK.L3aalso22','user','1');
+insert into user(id,name,username,password,role,enabled) values(2, 'Edward','edward','$2a$10$Y6XOTC4cWSYV9T9DD14hiuwkT/KlprERmUiN8zVHsOK.L3aalso22','user','1');
+insert into user(id,name,username,password,role,enabled) values(3, 'Tuidjang','tuidjang','$2a$10$Y6XOTC4cWSYV9T9DD14hiuwkT/KlprERmUiN8zVHsOK.L3aalso22','user','1');
+insert into user(id,name,username,password,role,enabled) values(4, 'Bernice','bernice','$2a$10$Y6XOTC4cWSYV9T9DD14hiuwkT/KlprERmUiN8zVHsOK.L3aalso22','user','1');
+insert into user(id,name,username,password,role,enabled) values(5, 'Fidelis','fidelis','$2a$10$Y6XOTC4cWSYV9T9DD14hiuwkT/KlprERmUiN8zVHsOK.L3aalso22','admin','1');
